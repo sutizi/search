@@ -1,0 +1,23 @@
+[
+    { 
+        "id": 1,
+        "name": "toamte",
+        "price": 15,
+        "amount": 0,
+        "img": ""
+    },
+    { 
+        "id": 2,
+        "name": "fafa",
+        "price": 15,
+        "amount": 0,
+        "img": ""
+    },
+    { 
+        "id": 3,
+        "name": "asd",
+        "price": 15,
+        "amount": 0,
+        "img": ""
+    }
+]
